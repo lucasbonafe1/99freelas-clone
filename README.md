@@ -1,3 +1,6 @@
+# Projeto clone do 99frelas
+não achei o background da página principal e tive que improvisar, mas de resto mantive o padrão.
+
 ## Oficial
 
 <img src="https://github.com/lucasbonafe1/99freelas-clone/assets/161900921/3452a31a-fad9-42cb-b333-09d43b2cb34b" width="400">
